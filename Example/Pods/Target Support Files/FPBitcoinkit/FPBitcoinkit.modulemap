@@ -1,0 +1,6 @@
+framework module FPBitcoinkit {
+  umbrella header "FPBitcoinkit-umbrella.h"
+
+  export *
+  module * { export * }
+}

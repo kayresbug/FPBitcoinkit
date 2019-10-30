@@ -7,11 +7,14 @@
 //
 
 import UIKit
+import FPBitcoinkit
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        FPBitcoinkit().log(with: "adf")
+//        FPBitcoinkitVersionNumber().log(with: "adf")
         // Do any additional setup after loading the view, typically from a nib.
     }
 

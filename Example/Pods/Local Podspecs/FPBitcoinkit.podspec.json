@@ -1,0 +1,22 @@
+{
+  "name": "FPBitcoinkit",
+  "version": "0.1.0",
+  "summary": "A short description of FPBitcoinkit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kayresbug/FPBitcoinkit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kayresbug": "kayres@finports.com"
+  },
+  "source": {
+    "git": "https://github.com/kayresbug/FPBitcoinkit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FPBitcoinkit/Classes/**/*"
+}
